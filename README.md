@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/45556790/190404955-313e789d-66ad-4809-
 
 Opdracht 2 Video: 
 
-https://user-images.githubusercontent.com/45556790/190405031-18fc26af-6ebc-435a-bc74-c0407b25ef0f.MOV
+https://user-images.githubusercontent.com/45556790/190405512-222f06ae-d65d-4f2e-bf7a-ef29ac6bc855.MOV
 
 Opdracht 3 Video: 
 
