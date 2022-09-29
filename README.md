@@ -25,3 +25,7 @@ Opdracht 6 Video:
 
 https://user-images.githubusercontent.com/45556790/191724939-8fdae7f8-0fb6-48d3-a099-d0e3bf86b174.MOV
 
+Opdracht 7 Video: 
+
+https://user-images.githubusercontent.com/45556790/193019611-f75264f5-a2b5-4a21-a33c-2ad881879aed.MOV
+
