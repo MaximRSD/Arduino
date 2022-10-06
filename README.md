@@ -29,3 +29,7 @@ Opdracht 7 Video:
 
 https://user-images.githubusercontent.com/45556790/193019611-f75264f5-a2b5-4a21-a33c-2ad881879aed.MOV
 
+Opdracht 8 Video: 
+
+https://user-images.githubusercontent.com/45556790/194316294-b37ebcd1-efd6-4789-8623-44826f2f5cb4.MOV
+
