@@ -3,9 +3,9 @@
 const int trigPin = 12;          // Trigger pin
 const int echoPin = 11;          // Echo Pin
 const int servoPin  = 9;         // Servo Pin
-
-Servo servo;                     
-
+    
+Servo servo;                     // servo object aangemaakt
+  
 float time;                      // Variable tijdsduur
 float distance;                  // Variable voor de afstand
 
