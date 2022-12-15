@@ -33,7 +33,7 @@ Opdracht 8 Video:
 
 https://user-images.githubusercontent.com/45556790/195595685-10679dab-c549-4d14-be77-4554ee3c3543.MOV
 
-Opdracht 9 Video (thinkercad):
+Opdracht 9 Video (tinkercad):
 
 https://user-images.githubusercontent.com/45556790/196977770-173834b9-0b4e-4446-b929-f9f36bc11438.MOV
 
