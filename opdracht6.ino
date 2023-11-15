@@ -76,6 +76,4 @@ delay(2000);                                                      //Delay gestel
       delay(1000/ 120);                                           //Delay gesteld op een 1 seconden gedeeld door 120
     }
   }
-  
-  
 }
