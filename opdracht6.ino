@@ -57,7 +57,7 @@ void loop() {
     }
   }
 
-  if(button1 && button2) {                                                                    // Als beide buttons ingedrukt zijn
+  if(button && button1) {                                                                    // Als beide buttons ingedrukt zijn
     Serial.println("Both buttons are pressed");                                               // Print als beide buttons ingedrukt zijn
 
     while(digitalRead(BUTTON_PIN) == LOW && digitalRead(BUTTON_PIN1) == LOW && pos < 120) {   // While loop voor als beide buttons ingedrukt zijn. position staat op 0 en kan maximaal tot en met 120 opgeteld worden
