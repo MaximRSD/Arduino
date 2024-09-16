@@ -23,6 +23,10 @@ https://user-images.githubusercontent.com/45556790/190423182-edb25a3d-a4b1-4ae3-
 
 Opdracht 6 Video: 
 
+
+https://github.com/user-attachments/assets/503dc3aa-3061-41be-8eb0-763a05ebc39a
+
+
 https://user-images.githubusercontent.com/45556790/191724939-8fdae7f8-0fb6-48d3-a099-d0e3bf86b174.MOV
 
 Opdracht 7 Video: 
