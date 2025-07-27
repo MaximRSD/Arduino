@@ -38,3 +38,7 @@ Opdracht 9 Video (tinkercad):
 https://user-images.githubusercontent.com/45556790/196977770-173834b9-0b4e-4446-b929-f9f36bc11438.MOV
 
 https://github.com/user-attachments/assets/84f32aff-2d66-426a-a662-40ad8e5bc4ad
+
+(Met stoplicht)
+https://github.com/user-attachments/assets/fbf7e8ac-5dd9-4502-ac81-4441f862d9ba
+
